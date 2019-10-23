@@ -1,0 +1,5 @@
+﻿  L1Test.cpp
+c:\users\sam tempestini\source\repos\project2\project2\l1test.cpp(16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sam tempestini\source\repos\project2\project2\l1test.cpp(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sam tempestini\source\repos\project2\project2\l1test.cpp(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Project2.vcxproj -> C:\Users\Sam Tempestini\source\repos\Project2\Debug\Project2.exe

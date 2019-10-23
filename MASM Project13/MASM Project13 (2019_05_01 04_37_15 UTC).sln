@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MASM Project13", "MASM Project13\MASM Project13.vcxproj", "{CC58174B-4D87-47E3-A25C-106D781B8C2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC58174B-4D87-47E3-A25C-106D781B8C2A}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC58174B-4D87-47E3-A25C-106D781B8C2A}.Debug|x86.Build.0 = Debug|Win32
+		{CC58174B-4D87-47E3-A25C-106D781B8C2A}.Release|x86.ActiveCfg = Release|Win32
+		{CC58174B-4D87-47E3-A25C-106D781B8C2A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BA3F9D5-99BB-4DD0-BCE7-143AD4A93B25}
+	EndGlobalSection
+EndGlobal

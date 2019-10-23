@@ -1,0 +1,6 @@
+﻿  Assembling Source.asm...
+Source.asm(16): error A2008: syntax error : R3
+Source.asm(17): error A2008: syntax error : R14
+Source.asm(18): error A2008: syntax error : R3
+Source.asm(19): error A2008: syntax error : BAL
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\BuildCustomizations\masm.targets(69,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Source.obj" /Fl"HW11_3.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /TaSource.asm" exited with code 1.

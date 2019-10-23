@@ -1,0 +1,7 @@
+﻿  Assembling Source.asm...
+Source.asm(15): error A2081: missing operand after unary operator
+Source.asm(18): error A2022: instruction operands must be the same size
+Source.asm(37): error A2022: instruction operands must be the same size
+Source.asm(38): error A2022: instruction operands must be the same size
+Source.asm(43): error A2022: instruction operands must be the same size
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\BuildCustomizations\masm.targets(69,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Source.obj" /Fl"inClass8.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /TaSource.asm" exited with code 1.

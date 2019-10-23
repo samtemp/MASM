@@ -1,0 +1,5 @@
+﻿  Assembling ..\..\..\..\Desktop\Source_inClass.asm...
+..\..\..\..\Desktop\Source_inClass.asm(66): error A2070: invalid instruction operands
+..\..\..\..\Desktop\Source_inClass.asm(70): error A2070: invalid instruction operands
+..\..\..\..\Desktop\Source_inClass.asm(63): error A2022: instruction operands must be the same size
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\BuildCustomizations\masm.targets(69,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\Source_inClass.obj" /Fl"MASM Project5.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /Ta..\..\..\..\Desktop\Source_inClass.asm" exited with code 1.
